@@ -5,14 +5,15 @@ from nonebot import on_command
 from nonebot.internal.adapter import Message
 from nonebot.params import CommandArg
 from httpx import AsyncClient
+
 from .data_source import classify,directives
 
-WF = on_command("WF", aliases={"#", "/"},priority=5)
+warframe = on_command("warframe", aliases={"", "/"},priority=5)
 
-@WF.handle()
+@warframe.handle()
 async def receive(args: Message = CommandArg()):
     msg = await classify(args.extract_plain_text())
-    await WF.finish(message=msg)
+    await warframe.finish(message=msg)
 
 
 #wm市场

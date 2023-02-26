@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setuptools.setup(
     name = "nonebot_plugin_warframe_mode", ##模块名字
-    version = "0.0.1", ##版本号
+    version = "0.0.3", ##版本号
     author="mmxd12", ##作者名字
     author_email="mys0627@outlook.com", ##作者邮箱
     description="""基于nonebot2的WM市场查询的插件""", ##模块简介
@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/mmxd12/nonebot_plugin_warframe_mode", ##模块链接
     packages=setuptools.find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3.10",  # 使用Python3.10
+        "Programming Language :: Python :: 3.11",  # 使用Python3.11
         "License :: OSI Approved :: MIT License",  # 开源协议
         "Operating System :: OS Independent",
     ],
