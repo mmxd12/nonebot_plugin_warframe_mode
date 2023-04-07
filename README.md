@@ -16,6 +16,8 @@
     ```shell
     nb plugin install nonebot-plugin-warframe_mode
     ```
+	
+-打开nonebot2的根目录中的pyproject.toml文件，在[tool.nonebot]这项中找到plugins在其后面[]里写入"nonebot_plugin_warframe_mode"
 
 # 使用
 
@@ -37,15 +39,17 @@
   地球赏金|金星赏金|火卫二赏金
   火卫二平原|金星平原|地球平原
   ===================
-  当前版本0.0.4
+  当前版本1.1.0-Beta
   ```
   
 # 注意
 - python版本需要3.9以上，内置新语法！
+-[如果有bug请大佬们往issues走](https://github.com/mmxd12/nonebot_plugin_warframe_mode/issues)
+-如需修改指令前缀或者监听的ip请在.env.prod文件里面修改！
 
 
 # 特别感谢
 
 - [NoneBot2](https://github.com/nonebot/nonebot2)： 插件使用的开发框架。
-- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)： 稳定完善的 CQHTTP 实现。
-- [warframe-info-api](https://github.com/WsureWarframe/warframe-info-api)：所使用的指令均来自WsureWarframe的api
+- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)： 无理头●▽●。
+- [warframe-info-api](https://github.com/WsureWarframe/warframe-info-api)：所使用的指令均来自WsureWarframe的api（非常的nbヾ(≧∇≦*)ゝ）
