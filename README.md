@@ -1,6 +1,7 @@
 # nonebot-plugin-warframe_mode
 
 基于NoneBot2的WM市场查询的插件
+**最新插件建议本地，最新版未上转pypi**
 
 
 # 安装
