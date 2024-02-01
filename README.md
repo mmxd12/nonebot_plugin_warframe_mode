@@ -54,5 +54,5 @@
 # 特别感谢
 
 - [NoneBot2](https://github.com/nonebot/nonebot2)： 插件使用的开发框架。
-- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)： 无理头●▽●。
+- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)： 无理头●▽●。（虽然已寄但可以使用Gensokyo给官方bot使用[Gensokyo](https://github.com/Hoshinonyaruko/Gensokyo)）
 - [warframe-info-api](https://github.com/WsureWarframe/warframe-info-api)：所使用的指令均来自WsureWarframe的api（非常的nbヾ(≧∇≦*)ゝ）
