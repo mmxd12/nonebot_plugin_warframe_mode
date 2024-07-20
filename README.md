@@ -46,6 +46,7 @@
   ```
   
 # 注意
+
 - python版本需要3.9以上，内置新语法！
 -[如果有bug请大佬们往issues走](https://github.com/mmxd12/nonebot_plugin_warframe_mode/issues)
 -如需修改指令前缀或者监听的ip请在.env文件里面修改！
