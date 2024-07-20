@@ -18,7 +18,7 @@
     nb plugin install nonebot-plugin-warframe_mode
     ```
 	
--打开nonebot2的根目录中的pyproject.toml文件，在[tool.nonebot]这项中找到plugins在其后面[]里写入"nonebot_plugin_warframe_mode"
+- 打开nonebot2的根目录中的pyproject.toml文件，在[tool.nonebot]这项中找到plugins在其后面[]里写入"nonebot_plugin_warframe_mode"
 
 # 使用
 
