@@ -4,7 +4,7 @@
 - 关于插件更新！
   
     ```shell
-    1.最新版插件未上转pypi，建议直接clone本库
+    1.最新版插件未上转pypi，建议直接clone本库，然后开发者模式下使用
     2.如有新版，一样会上到本库
     3.原库账号已经没办法登入，今后会在此库更新
     ...
@@ -13,19 +13,19 @@
 
 # 安装
 
-- 脚手架安装
-
-    ```shell
-    pip install nonebot-plugin-warframe_mode
-    ```
-
 - NoneBot2 插件商店安装
 
     ```shell
     nb plugin install nonebot-plugin-warframe_mode
     ```
+
+- 手动安装
+
+    ```shell
+    pip install nonebot-plugin-warframe_mode
+    ```
 	
-- 打开nonebot2的根目录中的pyproject.toml文件，在[tool.nonebot]这项中找到plugins在其后面[]里写入"nonebot_plugin_warframe_mode"
+- 打开nonebot2的根目录中的pyproject.toml文件，在[tool.nonebot]这项中找到plugins在其后面[]里写入"nonebot_plugin_warframe_mode"。**此办法插件可能不是最新版！建议clone本库，然后在开发者模式下使用**
 
 # 使用
 
