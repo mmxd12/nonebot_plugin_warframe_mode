@@ -1,7 +1,13 @@
 # nonebot-plugin-warframe_mode
 
 基于NoneBot2的WM市场查询的插件
----**最新插件建议本地，最新版未上转pypi**
+- 关于插件更新！
+  
+    ```shell
+    - 最新版插件未上转pypi，建议直接clone本库
+    - 如有新版，一样会上到本库
+    - 原库账号已经没办法登入，今后会在此库更新
+    ```
 
 
 # 安装
@@ -48,7 +54,7 @@
 # 注意
 
 - python版本需要3.9以上，内置新语法！
-- [如果有bug请大佬们往issues走](https://github.com/mmxd12/nonebot_plugin_warframe_mode/issues)
+- 如果有bug请大佬们往[issues]走(https://github.com/mmxd12/nonebot_plugin_warframe_mode/issues)
 - 如需修改指令前缀或者监听的ip请在.env文件里面修改！
 - pillow库请使用9.5.0版:pip install pillow==9.5.0
 - 如有其他疑问可如群:435021808 感谢你的使用！
