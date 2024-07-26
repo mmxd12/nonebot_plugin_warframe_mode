@@ -57,7 +57,7 @@
 - 如需修改指令前缀或者监听的ip请在.env文件里面修改！
 - pillow库请使用9.5.0版:`pip install pillow==9.5.0`
 - 如有其他疑问可如群:435021808 感谢你的使用！
-  如果有bug请大佬们往[issues]走(https://github.com/mmxd12/nonebot_plugin_warframe_mode/issues)
+- 如果有bug请大佬们往[issues]走(https://github.com/mmxd12/nonebot_plugin_warframe_mode/issues)
 
 
 # 特别感谢
